@@ -1092,7 +1092,8 @@
     }
 
     .footer .f-top {
-        padding-bottom: 54px;
+        padding-bottom: 27px;
+        padding-top: 15px;
     }
 
     .f-bottom .row {
@@ -1309,7 +1310,7 @@
    
 }
 
-@media (min-width: 330px) and (max-width: 767px) {
+@media (min-width: 375px) and (max-width: 767px) {
     .btn-blue {
         padding: 7px 20px;
     }
@@ -1317,7 +1318,7 @@
 
 
 
-@media (min-width: 240px) and (max-width: 329px) {
+@media (min-width: 240px) and (max-width: 374px) {
     .call-us-button .btn {
         font-size: 10px;
         line-height: 12px;
